@@ -1,0 +1,16 @@
+{
+  "name": "czhar",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CZhar/czhar.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["czhar", "jw"],
+  "author": "",
+  "license": "MIT"
+}
